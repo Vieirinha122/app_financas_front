@@ -30,6 +30,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
+      },
+      "package": "com.vieira_ads.app_financas_front"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "481b5f13-3a01-430f-b222-f1042ae60d79"
       }
     }
   }

@@ -7,7 +7,7 @@ import { SafeAreaProvider } from 'react-native-safe-area-context';
 
 import { GluestackUIProvider } from './components/ui/gluestack-ui-provider';
 import { LoginScreen } from './src/screens/auth/Login';
-import HomeScreen from './src/screens/HomeScreen';
+import { HomeScreen } from './src/screens/HomeScreen';
 import { AuthProvider } from './src/context/AuthContext';
 
 const Stack = createNativeStackNavigator();
